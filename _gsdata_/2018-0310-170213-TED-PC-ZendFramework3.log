@@ -1,0 +1,19 @@
+2018-03-10 17:02:13: == 分析比较具有相同大小但文件修改时间不同的文件校验和
+2018-03-10 17:02:13: == 分析所有文件的比较校验和，因此它将运行缓慢，因为所有文件体必须被读取以计算它们的校验和
+2018-03-10 17:02:13: -- 分析开始 User Command
+2018-03-10 17:03:45: /public/favicon.ico: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2018-03-10 17:03:45: 变更：4， 冲突：， 复制时间：， 复制状态：， 错误： , All: 7276
+2018-03-10 17:03:45: Left to Right: Copy File: 4 
+2018-03-10 17:03:45: -- 分析已结束。历时 00:01:32, 速度： 224 文件/秒
+2018-03-10 17:03:45: 
+2018-03-10 17:03:48: == 同步开始由 User Command
+2018-03-10 17:03:48: Copy Confirmed by CheckSum: G:/Git/ZendFramework/public/favicon.ico
+2018-03-10 17:03:48: 覆盖复制 '//r-centos.corp.raresoft.net/www/raredesk/public/favicon.ico' -> 'G:/Git/ZendFramework/public/favicon.ico' (318)
+2018-03-10 17:03:48: Copy Confirmed by CheckSum: G:/Git/ZendFramework/public/icon.png
+2018-03-10 17:03:48: 覆盖复制 '//r-centos.corp.raresoft.net/www/raredesk/public/icon.png' -> 'G:/Git/ZendFramework/public/icon.png' (5,843)
+2018-03-10 17:03:48: Copy Confirmed by CheckSum: G:/Git/ZendFramework/public/tile-wide.png
+2018-03-10 17:03:48: 覆盖复制 '//r-centos.corp.raresoft.net/www/raredesk/public/tile-wide.png' -> 'G:/Git/ZendFramework/public/tile-wide.png' (6,349)
+2018-03-10 17:03:48: Copy Confirmed by CheckSum: G:/Git/ZendFramework/public/tile.png
+2018-03-10 17:03:48: 覆盖复制 '//r-centos.corp.raresoft.net/www/raredesk/public/tile.png' -> 'G:/Git/ZendFramework/public/tile.png' (26,580)
+2018-03-10 17:03:48: == 同步完成. 历时: 00:00:00, 速度: 0 字节/s, 完成: 4, 错误: 
+2018-03-10 17:03:48: 
